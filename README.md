@@ -1,2 +1,4 @@
 # NW-wearables
-Wearable stuff
+
+Welcome to the NW Wearables page! Information for wearable technology can be found here.
+
